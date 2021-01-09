@@ -19,8 +19,8 @@ export default ({ sections }) => (
       <Blobs />
     </Box>
     <Header
-      title="Hack Club Workshops"
-      desc="Learn to code with this collection of community-contributed, self-guided coding tutorials + ideas."
+      title="muenster.io Workshops"
+      desc="Eine Reihe von Workshops von Hack Club angepasst für unsere AG."
       img="https://workshops.hackclub.com/card.png"
       includeMeta
       navBg={false}
@@ -28,7 +28,7 @@ export default ({ sections }) => (
     >
       <Button
         as="a"
-        href="https://hackclub.com/philosophy/"
+        href="https://hackclub.com/"
         target="_blank"
         rel="noopener noreferrer"
         variant="outline"
@@ -38,7 +38,7 @@ export default ({ sections }) => (
           ':hover,:focus': { transform: 'scale(1.0625)' }
         }}
       >
-        Our Philosophy »
+        Zu Hack Club »
       </Button>
     </Header>
     {sections.map(({ key, ...section }) => (

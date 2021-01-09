@@ -2,6 +2,9 @@
 <h1 align="center"><a href="https://workshops.hackclub.com/">Hack Club Workshops</a></h1>
 <p align="center"><i>A set of high-quality coding tutorials for Hack Club meetings.</i></p>
 
+### Disclaimer
+muenster.io is not affiliated with Hack Club. This repo just contains my favorite workshops :)
+
 ### Introduction
 
 At [Hack Club](https://hackclub.com/) meetings, we [believe in](https://hackclub.com/philosophy/)

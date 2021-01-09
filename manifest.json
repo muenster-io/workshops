@@ -1,4 +1,83 @@
 {
+  "starters": {
+    "title": "Hier gehts los",
+    "description": "Hier kannst du anfangen deine erste Webseite zu bauen, bevor es dann mit Web, Android und iOS Apps weitergeht.",
+    "slugs": [
+      "personal_website",
+      "splatter_paint",
+      "colorful_grammar",
+      "speak_colors",
+      "sound_galaxy"
+    ]
+  },
+  "web": {
+    "title": "Web development",
+    "description": "Learn how to make things happen on the web, from basic JavaScript to web APIs",
+    "slugs": [
+      "find_bigfoot",
+      "synth",
+      "dashboard",
+      "geometric_pattern",
+      "collaborative_sketch",
+      "tree_machine",
+      "julia_fractals",
+      "hackide"
+    ]
+  },
+  "react": {
+    "title": "React",
+    "description": "Learn to use one of the most popular JavaScript frameworks out there.",
+    "slugs": [
+      "nextjs_starter",
+      "nextjs_dashboard",
+      "dicegamereactnative"
+    ]
+  },
+  "games": {
+    "title": "Games",
+    "description": "Learn to build games, both locally and on the web!",
+    "slugs": [
+      "dodge",
+      "platformer",
+      "pico_8_maze"
+    ]
+  },
+  "functional_programming": {
+    "title": "Functional Programming with JavaScript",
+    "description": "Learn the functional programming paradigm in JavaScript with this experimental new series.",
+    "slugs": [
+      "functional_programming_1",
+      "functional_programming_2",
+      "functional_programming_3"
+    ]
+  },
+  "python": {
+    "title": "Python",
+    "description": "Learn to use one of the most powerful and beginner-friendly languages.",
+    "slugs": [
+      "selenium",
+      "vigenere_cipher",
+      "passwordcracker"
+    ]
+  },
+  "ml": {
+    "title": "Machine Learning",
+    "description": "Learn how to make machines learn with these fun projects!",
+    "slugs": [
+      "teachable_machine",
+      "feature_extractor",
+      "not_hotdog"
+    ]
+  },
+  "arduino": {
+    "title": "Arduino",
+    "description": "Bring projects from cyberspace to the real world with this small hardware platform.",
+    "slugs": [
+      "blink",
+      "temperature_monitor",
+      "iotworkshop"
+    ]
+  },
   "bounties": {
     "title": "Workshop bounties",
     "description": "Fabulous community-created workshops from the Workshop Bounty program.",
@@ -42,92 +121,6 @@
       "password_generator"
     ]
   },
-  "starters": {
-    "title": "Start here",
-    "description": "Set out on your journey by building your own website, then move on to multiplayer games and collaborative web apps.",
-    "slugs": [
-      "personal_website",
-      "splatter_paint",
-      "colorful_grammar",
-      "speak_colors",
-      "sound_galaxy",
-      "teachable_machine"
-    ]
-  },
-  "web": {
-    "title": "Web development",
-    "description": "Learn how to make things happen on the web, from basic JavaScript to web APIs",
-    "slugs": [
-      "find_bigfoot",
-      "synth",
-      "dashboard",
-      "geometric_pattern",
-      "collaborative_sketch",
-      "tree_machine",
-      "julia_fractals",
-      "wikibot",
-      "hackide"
-    ]
-  },
-  "python": {
-    "title": "Python",
-    "description": "Learn to use one of the most powerful and beginner-friendly languages.",
-    "slugs": [
-      "selenium",
-      "vigenere_cipher",
-      "passwordcracker"
-    ]
-  },
-  "games": {
-    "title": "Games",
-    "description": "Learn to build games, both locally and on the web!",
-    "slugs": [
-      "dodge",
-      "platformer",
-      "pico_8_maze"
-    ]
-  },
-  "react": {
-    "title": "React",
-    "description": "Learn to use one of the most popular JavaScript frameworks out there.",
-    "slugs": [
-      "nextjs_starter",
-      "nextjs_dashboard",
-      "dicegamereactnative"
-    ]
-  },
-  "hack_island": {
-    "title": "Adventures of Hack Island!",
-    "description": "Help Orpheus and the people of Hack Island! Learn about cybersecurity while completing an adventure in this experimental new workshop series.",
-    "slugs": ["help_orpheus"]
-  },
-  "ml": {
-    "title": "Machine Learning",
-    "description": "Learn how to make machines learn with these fun projects!",
-    "slugs": [
-      "teachable_machine",
-      "feature_extractor",
-      "not_hotdog"
-    ]
-  },
-  "arduino": {
-    "title": "Arduino",
-    "description": "Bring projects from cyberspace to the real world with this small hardware platform.",
-    "slugs": [
-      "blink",
-      "temperature_monitor",
-      "iotworkshop"
-    ]
-  },
-  "functional_programming": {
-    "title": "Functional Programming with JavaScript",
-    "description": "Learn the functional programming paradigm in JavaScript with this experimental new series.",
-    "slugs": [
-      "functional_programming_1",
-      "functional_programming_2",
-      "functional_programming_3"
-    ]
-  },
   "misc": {
     "title": "Miscellaneous",
     "description": "Workshops not properly categorized yet.",
@@ -138,7 +131,9 @@
       "line_following_robot",
       "pyramid_discord_bot",
       "web_scraping",
-      "api_canvas"
+      "api_canvas",
+      "wikibot",
+      "help_orpheus"
     ]
   }
 }
