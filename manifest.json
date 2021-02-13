@@ -7,7 +7,8 @@
       "splatter_paint",
       "colorful_grammar",
       "speak_colors",
-      "sound_galaxy"
+      "sound_galaxy",
+      "teachable_machine"
     ]
   },
   "web": {
@@ -21,6 +22,7 @@
       "collaborative_sketch",
       "tree_machine",
       "julia_fractals",
+      "login_auth",
       "hackide"
     ]
   },
@@ -30,52 +32,10 @@
     "slugs": [
       "nextjs_starter",
       "nextjs_dashboard",
+      "react_calendar",
+      "full_stack_todo_app",
+      "color_scheme_generator",
       "dicegamereactnative"
-    ]
-  },
-  "games": {
-    "title": "Games",
-    "description": "Learn to build games, both locally and on the web!",
-    "slugs": [
-      "dodge",
-      "platformer",
-      "pico_8_maze"
-    ]
-  },
-  "functional_programming": {
-    "title": "Functional Programming with JavaScript",
-    "description": "Learn the functional programming paradigm in JavaScript with this experimental new series.",
-    "slugs": [
-      "functional_programming_1",
-      "functional_programming_2",
-      "functional_programming_3"
-    ]
-  },
-  "python": {
-    "title": "Python",
-    "description": "Learn to use one of the most powerful and beginner-friendly languages.",
-    "slugs": [
-      "selenium",
-      "vigenere_cipher",
-      "passwordcracker"
-    ]
-  },
-  "ml": {
-    "title": "Machine Learning",
-    "description": "Learn how to make machines learn with these fun projects!",
-    "slugs": [
-      "teachable_machine",
-      "feature_extractor",
-      "not_hotdog"
-    ]
-  },
-  "arduino": {
-    "title": "Arduino",
-    "description": "Bring projects from cyberspace to the real world with this small hardware platform.",
-    "slugs": [
-      "blink",
-      "temperature_monitor",
-      "iotworkshop"
     ]
   },
   "bounties": {
@@ -118,7 +78,98 @@
       "discord_bot_with_rust",
       "slack_pfp",
       "discord_message_bot",
-      "password_generator"
+      "password_generator",
+      "image_editor",
+      "vr_worlds",
+      "populous_cities",
+      "bitex",
+      "orpheus_run",
+      "micro_bit_flappy_bird",
+      "python_snake",
+      "drum_pad",
+      "atari_breakout",
+      "pixel_art_pad",
+      "clicker_game",
+      "seven_segment_display",
+      "javascript_snake",
+      "speech_recognition",
+      "full_stack_todo_app",
+      "shared_clipboard",
+      "kahoot",
+      "ar_with_echoar",
+      "json_db",
+      "javascript_typing_test",
+      "particle_physics",
+      "color_scheme_generator",
+      "smart_calculator",
+      "hangman",
+      "digit_recognition",
+      "read_the_internet",
+      "painting_app",
+      "chart_js",
+      "scalable_snowman",
+      "craps_simulator",
+      "dialogue_tree",
+      "dice_rolling",
+      "battleship",
+      "flask_login",
+      "kuizzy",
+      "dungeon_crawler",
+      "website_mockup_generator",
+      "python_password_generator",
+      "rust_text_game",
+      "drawing_shapes",
+      "meme_generator",
+      "fibonacci_sequence",
+      "3d_mountain",
+      "hosting",
+      "minecraft_modding",
+      "mad_libs",
+      "space_game"
+    ]
+  },
+  "games": {
+    "title": "Games",
+    "description": "Learn to build games, both locally and on the web!",
+    "slugs": [
+      "dodge",
+      "platformer",
+      "pico_8_maze"
+    ]
+  },
+  "functional_programming": {
+    "title": "Functional Programming with JavaScript",
+    "description": "Learn the functional programming paradigm in JavaScript with this experimental new series.",
+    "slugs": [
+      "functional_programming_1",
+      "functional_programming_2",
+      "functional_programming_3"
+    ]
+  },
+  "python": {
+    "title": "Python",
+    "description": "Learn to use one of the most powerful and beginner-friendly languages.",
+    "slugs": [
+      "selenium",
+      "vigenere_cipher",
+      "passwordcracker"
+    ]
+  },
+  "ml": {
+    "title": "Machine Learning",
+    "description": "Learn how to make machines learn with these fun projects!",
+    "slugs": [
+      "teachable_machine",
+      "feature_extractor"
+    ]
+  },
+  "arduino": {
+    "title": "Arduino",
+    "description": "Bring projects from cyberspace to the real world with this small hardware platform.",
+    "slugs": [
+      "blink",
+      "temperature_monitor",
+      "iotworkshop"
     ]
   },
   "misc": {
